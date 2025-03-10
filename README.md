@@ -1,15 +1,13 @@
-# 🖥️ Henrique | Engenheiro da Computação  
+# 🖥️ Leoanrdo Antunes | Engenheiro da Computação  
 
-🚀 Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, automação e desenvolvimento full stack. Atualmente, trabalho com *Django, Node.js, React, TypeScript e DevOps*, além de projetos em hardware com ESP32 e automação.  
+🚀 Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, automação e desenvolvimento full stack.
 
 ---
 
 ## 🌎 Sobre Mim  
 - 🎓 Estudante de *Engenharia da Computação*  
 - 🔧 Desenvolvendo projetos de *automação e IoT*  
-- 📈 Investindo e aprendendo sobre *ações, FIIs e criptomoedas*  
 - 💡 Criando soluções para o *FabLab e comunidade maker*  
-- 📝 Buscando empreender e alcançar independência financeira  
 
 ---
 
